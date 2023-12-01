@@ -21,3 +21,12 @@ classification accuracy of stress condition versus neutral achieved across all e
 sensitivity and specificity were greater than 93.13%.
 Conclusions: We identified AUs combinations which are relevant to the stress conditions of each experimental phase and potentially
 utilized for each stressor type.
+
+## Experimental Tasks
+An experimental protocol was designed and conducted to investigate facial/physiological responses in stress conditions. The experiment included neutral tasks (used as reference) and stressful tasks in which stress conditions were simulated and induced employing different types of stressors. These stressors were categorized into 4 different phases: 
+•	social exposure
+•	emotional recall
+•	mental workload tasks
+•	stressful videos presentation
+
+
