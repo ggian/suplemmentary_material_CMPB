@@ -1,9 +1,9 @@
 # FORTH stress dataset
 **Stress detection based on facial action units, machine learning and explainable artificial intelligence**
-  Giorgos Giannakakis^1, Anastasios Roussos, Christina Andreou, Stefan Borgwardt and Alexandra I. Korda
+  Giorgos Giannakakis<sup>1</sup>, Anastasios Roussos<sup>1</sup>, Christina Andreou, Stefan Borgwardt and Alexandra I. Korda
 
   
-  ^1 Institute of Computer Science, Foundation for Research and Technology Hellas
+  <sup>1</sup> Institute of Computer Science, Foundation for Research and Technology Hellas
 
    Institute of Computer Science, Foundation for Research and Technology Hellas
 
