@@ -24,10 +24,10 @@ utilized for each stressor type.
 
 ## Experimental Tasks
 An experimental protocol was designed and conducted to investigate facial/physiological responses in stress conditions. The experiment included neutral tasks (used as reference) and stressful tasks in which stress conditions were simulated and induced employing different types of stressors. These stressors were categorized into 4 different phases: 
-•	social exposure
-•	emotional recall
-•	mental workload tasks
-•	stressful videos presentation
+*	social exposure
+*	emotional recall
+*	mental workload tasks
+*	stressful videos presentation
 
 
 
