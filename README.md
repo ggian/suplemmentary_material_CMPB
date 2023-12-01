@@ -35,15 +35,12 @@ The dataset population was 58 adults (24 men, 34 women) aged 26.9 ± 4.8 years. 
 *	6 stressed 
 *	1 relaxed 
 
-A neutral condition was presented at the beginning of each phase of the experiment. This condition was used as a baseline for the subsequent stressful tasks. The study was approved by the FORTH Ethics Committee (FEC) (FEC Approval, ref no 76, 27/6/2018). All participants provided informed consent. The experiments were performed at the premises of the FORTH Research Institute.
-
-
+A neutral condition was presented at the beginning of each phase of the experiment. This condition was used as a baseline for the subsequent stressful tasks. 
 
 ##  Release of FORTH Stress dataset
-The FORTH Stress dataset  can be obtained and used by researchers who wish to perform non-comercial research. The dataset includes 
+The FORTH Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the FORTH Ethics Committee (FEC) (FEC Approval, ref no 76, 27/6/2018). All participants provided informed consent. The experiments were performed at the premises of the FORTH Research Institute.
 
-
-The MiMicME has been freely available for research and education purposes. To obtain access to the dataset, you need to complete and sign the user agreement form (TBA in this repository). 
+The FORTH Stress dataset has been freely available for research and education purposes. To obtain access to the dataset, you need to complete and sign the user agreement form (TBA in this repository). 
 The form should be signed, and emailed to Giorgos Giannakakis  (ggian@ics.forth.gr). We will verify your request and contact you on how to download the dataset.
 
 
