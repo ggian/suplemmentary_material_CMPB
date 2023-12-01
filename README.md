@@ -1,15 +1,15 @@
 # FORTH stress dataset
-Stress detection based on facial action units, machine learning and explainable artificial intelligence
+**Stress detection based on facial action units, machine learning and explainable artificial intelligence**
 
-Giorgos Giannakakis, Institute of Computer Science, Foundation for Research and Technology Hellas
+  Giorgos Giannakakis, Institute of Computer Science, Foundation for Research and Technology Hellas
 
-Anastasios Roussosa, Institute of Computer Science, Foundation for Research and Technology Hellas
+  Anastasios Roussosa, Institute of Computer Science, Foundation for Research and Technology Hellas
 
-Christina Andreou, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
+  Christina Andreou, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
 
-Stefan Borgwardt, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
+  Stefan Borgwardt, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
 
-Alexandra I. Korda, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
+  Alexandra I. Korda, Translational Psychiatry, Department of Psychiatry and Psychotherapy, University of Luebeck
 
 
 ## Abstract
