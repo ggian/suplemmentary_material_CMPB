@@ -34,6 +34,7 @@ The dataset population was 58 adults (24 men, 34 women) aged 26.9 ± 4.8 years. 
 *	4 neutral 
 *	6 stressed 
 *	1 relaxed 
+
 A neutral condition was presented at the beginning of each phase of the experiment. This condition was used as a baseline for the subsequent stressful tasks. The study was approved by the FORTH Ethics Committee (FEC) (FEC Approval, ref no 76, 27/6/2018). All participants provided informed consent. The experiments were performed at the premises of the FORTH Research Institute.
 
 
