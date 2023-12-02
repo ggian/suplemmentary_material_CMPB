@@ -1,5 +1,5 @@
 # FORTH stress dataset
-**Stress detection based on facial action units, machine learning and explainable artificial intelligence**
+**Stress recognition identifying relevant facial action units through explainable artificial intelligence and machine learning**
 <br/>
 Giorgos Giannakakis<sup>1</sup>, Anastasios Roussos<sup>1</sup>, Christina Andreou<sup>2</sup>, Stefan Borgwardt<sup>2</sup> and Alexandra I. Korda<sup>2</sup>
 <br/>
