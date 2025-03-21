@@ -1,4 +1,4 @@
-# FORTH stress dataset
+# Supplementary_material_CMPB
 **Stress recognition identifying relevant facial action units through explainable artificial intelligence and machine learning**
 <br/>
 Giorgos Giannakakis<sup>1</sup>, Anastasios Roussos<sup>1</sup>, Christina Andreou<sup>2</sup>, Stefan Borgwardt<sup>2</sup> and Alexandra I. Korda<sup>2</sup>
